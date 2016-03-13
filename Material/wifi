@@ -1,0 +1,33 @@
+Wi-Fi (or WiFi) is a local area wireless computer networking technology that allows electronic devices to network, mainly using the 2.4 gigahertz (12 cm) UHF and 5 gigahertz (6 cm) SHF ISM radio bands.
+
+The Wi-Fi Alliance defines Wi-Fi as any "wireless local area network" (WLAN) product based on the Institute of Electrical and Electronics Engineers' (IEEE) 802.11 standards.[1] However, the term "Wi-Fi" is used in general English as a synonym for "WLAN" since most modern WLANs are based on these standards. "Wi-Fi" is a trademark of the Wi-Fi Alliance. The "Wi-Fi Certified" trademark can only be used by Wi-Fi products that successfully complete Wi-Fi Alliance interoperability certification testing.
+
+Many devices can use Wi-Fi, e.g. personal computers, video-game consoles, smartphones, digital cameras, tablet computers and digital audio players. These can connect to a network resource such as the Internet via a wireless network access point. Such an access point (or hotspot) has a range of about 20 meters (66 feet) indoors and a greater range outdoors. Hotspot coverage can be as small as a single room with walls that block radio waves, or as large as many square kilometres achieved by using multiple overlapping access points.
+Depiction of a device sending information wirelessly to another device, both connected to the local network, in order to print a document.
+
+Wi-Fi can be less secure than wired connections, such as Ethernet, precisely because an intruder does not need a physical connection. Web pages that use TLS are secure, but unencrypted internet access can easily be detected by intruders. Because of this, Wi-Fi has adopted various encryption technologies. The early encryption WEP proved easy to break. Higher quality protocols (WPA, WPA2) were added later. An optional feature added in 2007, called Wi-Fi Protected Setup (WPS), had a serious flaw that allowed an attacker to recover the router's password.[2] The Wi-Fi Alliance has since updated its test plan and certification program to ensure all newly certified devices resist attacks.
+
+History
+Main article: IEEE 802.11 § History
+
+In 1971, ALOHAnet connected the Hawaiian Islands with a UHF wireless packet network. ALOHAnet and the ALOHA protocol were early forerunners to Ethernet, and later the IEEE 802.11 protocols, respectively.
+
+A 1985 ruling by the U.S. Federal Communications Commission released the ISM band for unlicensed use.[3] These frequency bands are the same ones used by equipment such as microwave ovens and are subject to interference.
+
+In 1991, NCR Corporation with AT&T Corporation invented the precursor to 802.11, intended for use in cashier systems. The first wireless products were under the name WaveLAN.
+
+The Australian radio-astronomer John O'Sullivan developed a key patent used in Wi-Fi as a by-product of a Commonwealth Scientific and Industrial Research Organisation (CSIRO) research project, "a failed experiment to detect exploding mini black holes the size of an atomic particle".[4] In 1992 and 1996, CSIRO obtained patents[5] for a method later used in Wi-Fi to "unsmear" the signal.[6]
+
+The first version of the 802.11 protocol was released in 1997, and provided up to 2 Mbit/s link speeds. This was updated in 1999 with 802.11b to permit 11 Mbit/s link speeds, and this proved to be popular.
+
+In 1999, the Wi-Fi Alliance formed as a trade association to hold the Wi-Fi trademark under which most products are sold.[7]
+
+Uses
+A sticker indicating to the public that a location is within range of a Wi-Fi network. A dot with curved lines radiating from it is a common symbol for Wi-Fi, representing a point transmitting a signal.[24]
+
+To connect to a Wi-Fi LAN, a computer has to be equipped with a wireless network interface controller. The combination of computer and interface controller is called a station. For all stations that share a single radio frequency communication channel, transmissions on this channel are received by all stations within range. The transmission is not guaranteed to be delivered and is therefore a best-effort delivery mechanism. A carrier wave is used to transmit the data. The data is organised in packets, referred to as "Ethernet frames".[citation needed]
+
+Safety
+Further information: Wireless electronic devices and health
+
+The World Health Organization (WHO) says "there is no risk from low level, long-term exposure to Wi-Fi networks" and the United Kingdom's Health Protection Agency reports that exposure to Wi-Fi for a year results in the "same amount of radiation from a 20-minute mobile phone call".[63][64] A review of studies involving 725 people who claimed electromagnetic hypersensitivity, "...suggests that 'electromagnetic hypersensitivity' is unrelated to the presence of EMF, although more research into this phenomenon is required."[65]
